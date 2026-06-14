@@ -74,19 +74,12 @@ ai-study-notes-generator/
 ---
 
 ## 🌐 Live Demo
-
-> Deploy your own in minutes on **Streamlit Community Cloud**:
-> 1. Push this repo to GitHub
-> 2. Go to [share.streamlit.io](https://share.streamlit.io)
-> 3. Connect your repo and add your `GEMINI_API_KEY` in the Secrets settings
-> 4. Click **Deploy** 🎉
-
+👉 [Click here to try the app!](https://study-notes-generator.streamlit.app/)
 ---
 
 ## 📸 Screenshot
 
-> _Add a screenshot of your app here after deployment!_
-
+![App Screenshot](assets/screenshot.png)
 ---
 
 ## 📄 License
