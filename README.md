@@ -85,7 +85,7 @@ ai-study-notes-generator/
 
 ## 📸 Screenshot
 
-![App Screenshot](assets/screenshot.png)
+> _Add a screenshot of your app here after deployment!_
 
 ---
 
